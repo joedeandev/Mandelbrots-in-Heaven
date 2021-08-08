@@ -1,0 +1,11 @@
+[package]
+name = "mandelbrot"
+version = "1.0.0"
+edition = "2018"
+
+[dependencies]
+num = "0.4"
+crossterm = "0.20.0"
+
+[profile.release]
+opt-level = 3
