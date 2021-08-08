@@ -8,4 +8,6 @@
 
 ***
 
-"Mandelbrot's in Heaven" is a Mandelbrot Set exploration tool for the terminal. It is written in Rust, and uses [crossterm](https://github.com/crossterm-rs/crossterm) for cross-platform terminal interaction. Commands / instructions are displayed upon first running the program.
+"Mandelbrot's in Heaven" is a Mandelbrot Set exploration tool for the terminal. It is written in Rust, and uses [crossterm](https://github.com/crossterm-rs/crossterm) for cross-platform terminal interaction.
+
+It can easily be run by cloning this repository and executing `cargo run --release`.  Commands / instructions are displayed upon first running the program.
